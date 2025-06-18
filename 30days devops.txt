@@ -1,0 +1,138 @@
+✅ Your DevOps Survival & Success Plan (First 30 Days)
+🔹 WEEK 1: Core Setup + Daily Practice
+🎯 Goal: Be confident in CLI, Git, Jenkins, and EC2
+✅ Tasks:
+✅ Learn Linux basics: cd, ls, chmod, ps, grep, top, df, netstat, curl
+
+✅ Practice git clone, git branch, git commit, git push, merge, rebase
+
+✅ Launch a free EC2 instance on AWS
+
+✅ Connect via SSH and install tools like Docker, Git, Java
+
+✅ Install Jenkins on EC2 and run your first freestyle job
+
+✅ Write a basic Shell Script to deploy a dummy app
+
+🔧 Tools:
+EC2, Git, Linux, Jenkins
+
+🔹 WEEK 2: CI/CD + Docker + Terraform
+🎯 Goal: Build and deploy using Docker and CI/CD pipelines
+✅ Tasks:
+✅ Write a Dockerfile for a simple Node.js or Python app
+
+✅ Build and run container locally
+
+✅ Push Docker image to Docker Hub
+
+✅ Create a Jenkins pipeline job that:
+
+Pulls code from GitHub
+
+Builds a Docker image
+
+Deploys to EC2
+
+✅ Install and configure Terraform to create:
+
+VPC + Subnet + EC2 + S3 bucket
+
+🔧 Tools:
+Jenkins, GitHub, Docker, Terraform, EC2
+
+🔹 WEEK 3: AWS Deep Dive + Monitoring + More Terraform
+🎯 Goal: Act like a real DevOps engineer on a live project
+✅ Tasks:
+✅ Practice creating:
+
+IAM roles and policies
+
+S3 buckets with versioning and policies
+
+RDS database (MySQL/Postgres)
+
+✅ Create dashboards in CloudWatch
+
+✅ Practice with Grafana + Prometheus (optional but good)
+
+✅ Use Terraform to deploy:
+
+EC2 with auto-assigned EIP
+
+Security groups
+
+Store state file in S3 (remote backend)
+
+🔧 Tools:
+AWS EC2, IAM, S3, RDS, CloudWatch, Terraform
+
+🔹 WEEK 4: Simulate Real Work + Troubleshooting
+🎯 Goal: Be job-ready for actual tasks
+✅ Tasks:
+✅ Build a CI/CD pipeline for a sample app using GitHub → Jenkins → Docker → AWS
+
+✅ Simulate errors:
+
+Docker build fails (fix Dockerfile)
+
+Jenkins job fails (fix script/env issue)
+
+EC2 server unreachable (fix security group)
+
+✅ Do a small monitoring setup for your EC2 using CloudWatch
+
+✅ Review and revise your Terraform code structure (modules, variables, outputs)
+
+💬 Bonus:
+Prepare answers for these questions:
+
+What happens when a Jenkins job fails?
+
+How do you roll back a bad deployment?
+
+How do you secure S3 buckets?
+
+What’s the difference between security groups and NACLs?
+
+🛠️ Dummy DevOps Project You Can Create (For Resume + Practice)
+"CI/CD Pipeline for Dockerized Node.js App Deployed on AWS EC2 using Jenkins & Terraform"
+
+Tech Stack:
+GitHub (code)
+
+Jenkins (build/test)
+
+Docker (container)
+
+AWS EC2 (host)
+
+Terraform (infra)
+
+S3 (artifact storage)
+
+CloudWatch (logs)
+
+📦 I can help you write this project's full description for your resume and LinkedIn if you want.
+
+📌 Tools to Install Locally (If You Haven’t Yet):
+Git
+
+Docker Desktop
+
+Terraform CLI
+
+VS Code
+
+Jenkins (optional if using EC2)
+
+Would you like a GitHub-ready DevOps project template or a resume sample based on this plan? I can build either for you.
+
+
+
+
+
+
+
+
+
